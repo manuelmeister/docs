@@ -35,7 +35,7 @@ export const logos = LogoCheck({
 	'solid-js': { file: 'solid.svg', padding: '.1875em' },
 	svelte: { file: 'svelte.svg', padding: '.1875em' },
 	tailwind: { file: 'tailwind.svg', padding: '.1875em' },
-	vue: { file: 'vue.svg', padding: '.3em .2em .2em' },
+	vue: { file: 'vue.svg', padding: '.275em .2em .225em' },
 	flightcontrol: { file: 'flightcontrol.svg', padding: '0em 0em 0em' },
 	sst: { file: 'sst.svg', padding: '0em 0.15em 0em' },
 	buttercms: { file: 'buttercms.svg', padding: '.1875em' },
